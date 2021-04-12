@@ -1,0 +1,80 @@
+body{
+  background-color: rgb(230, 229, 229);
+
+}
+.App {
+min-height:fit-content;
+width: 80vw;
+background-color: #FBFBFA;
+margin: auto;
+padding: 30px;
+}
+
+.control-panel{
+padding-top: 10px;
+padding-bottom: 10px;
+display: flex;
+justify-content: space-around;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+select{
+  margin-left: 10px;
+  border-radius: 15px;
+  padding: 5px;
+  outline: none;
+  padding-right: 80px;
+ 
+}
+
+input{
+  border-radius: 15px; 
+  outline: none;
+  border: solid black 0.5px;
+  background-image: url('https://listimg.pinclipart.com/picdir/s/15-157992_lens-clipart-magnifier-magnifying-glass-icon-grey-png.png');
+  background-repeat: no-repeat;
+  background-position: right;
+  background-size: 20px;
+  padding-left: 10px;
+  padding-right: 25px;
+}
+
+.donors-container{
+  display: flex;
+  flex-wrap: wrap;
+
+}
+ul{
+  margin: 0 auto;
+}
+
+
+li{
+list-style-type: none;
+height: 200px;
+width: 320px;
+text-align: center;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+box-shadow: 0 0 3px #333;
+margin: 25px;
+
+}
+
+.name-and-amount-container{
+  background-color: #F3F5FF;
+  height: 120px;
+}
+
+.donor-amount{
+  padding-top: 10px;
+  font-weight: 500;
+  font-size: 2rem;
+  
+}
+
+.donor-name{
+  font-size: 16px;
+  font-weight: 700;
+  color: grey;
+
+}
