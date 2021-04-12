@@ -9,10 +9,10 @@
 4.Navigate to the folder which contains your new react app you have just created, Open the terminal on that folder (You can also use git bash) and type the command:
 git clone *paste here the app repository adrress without the brackets*
 
-5.After all the project files got downloaded navigate causematch-challange folder and
-copy ALL of its content to your new react app folder
+5.After all the project files got downloaded, navigate again to the causematch-challange folder and
+copy ALL of its content to your new react app folder.
 
-6.Click Yes to override the new app files with the project files
+6.Click Yes to override the new app files with the project files.
 
 7.Run the terminal inside your current folder again and navigate to the app src file with this terminal connad: cd src
 
