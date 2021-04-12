@@ -14,7 +14,7 @@ copy ALL of its content to your new react app folder.
 
 6.Click Yes to override the new app files with the project files.
 
-7.Run the terminal inside your current folder again and navigate to the app src file with this terminal connad: cd src
+7.Run the terminal inside your current folder again and navigate to the app src file with this terminal command: cd src
 
 8.And lastly run the app via the terminal command npm start!
 
